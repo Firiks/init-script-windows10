@@ -26,7 +26,7 @@ else{
 }
 
 # install windows terminal
-# winget install Microsoft.WindowsTerminal
+winget install Microsoft.WindowsTerminal --accept-package-agreements --accept-source-agreements
 
 # Set current network profile to private (allow file sharing, device discovery, etc.)
 Write-Output "Setting current network profile to private..."
