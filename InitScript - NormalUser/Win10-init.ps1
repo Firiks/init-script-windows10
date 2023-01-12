@@ -315,6 +315,7 @@ Get-AppxPackage "Amazon.com.Amazon" | Remove-AppxPackage
 Get-AppxPackage "C27EB4BA.DropboxOEM" | Remove-AppxPackage
 Get-AppxPackage "CAF9E577.Plex" | Remove-AppxPackage
 Get-AppxPackage "CyberLinkCorp.hs.PowerMediaPlayer14forHPConsumerPC" | Remove-AppxPackage
+Get-AppxPackage "Disney.37853FC22B2CE" | Remove-AppxPackage
 Get-AppxPackage "D52A8D61.FarmVille2CountryEscape" | Remove-AppxPackage
 Get-AppxPackage "D5EA27B7.Duolingo-LearnLanguagesforFree" | Remove-AppxPackage
 Get-AppxPackage "DB6EA5DB.CyberLinkMediaSuiteEssentials" | Remove-AppxPackage
@@ -330,6 +331,7 @@ Get-AppxPackage "king.com.CandyCrushFriends" | Remove-AppxPackage
 Get-AppxPackage "king.com.CandyCrushSaga" | Remove-AppxPackage
 Get-AppxPackage "king.com.CandyCrushSodaSaga" | Remove-AppxPackage
 Get-AppxPackage "king.com.FarmHeroesSaga" | Remove-AppxPackage
+Get-AppxPackage "king.com.CandyCrushFriendsSaga" | Remove-AppxPackage
 Get-AppxPackage "Nordcurrent.CookingFever" | Remove-AppxPackage
 Get-AppxPackage "PandoraMediaInc.29680B314EFC2" | Remove-AppxPackage
 Get-AppxPackage "PricelinePartnerNetwork.Booking.comBigsavingsonhot" | Remove-AppxPackage
